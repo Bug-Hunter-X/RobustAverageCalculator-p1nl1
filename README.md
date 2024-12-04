@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python: the ZeroDivisionError that occurs when dividing by zero.  The original code lacks error handling for empty input lists, leading to this exception. The solution demonstrates how to correctly handle this edge case, improving code robustness.
